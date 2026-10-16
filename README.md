@@ -13,7 +13,9 @@
   <a href="https://github.com/Jew4200/DarkMedia-releases/releases/latest"><strong>Download the latest DarkMedia.exe</strong></a>
 </p>
 
-![Folder browsing with Icon View and a still image open](docs/folder-view.png)
+<p align="center">
+  <img src="docs/screenshots/social-preview.jpg" alt="DarkMedia portable Windows player" width="1280">
+</p>
 
 Dark Media Viewer is a dark, local media player. You download one file, double-click it, and play. FFmpeg and **libmpv** are bundled inside the exe, so formats like AV1, HEVC, TrueHD, MIDI, and tracker modules work without extra codecs.
 
